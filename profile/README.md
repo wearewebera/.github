@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <img src="../../raw/main/profile/github.css.svg" width="300" height="40" alt="css-in-readme">
 </div>
 
