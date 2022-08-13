@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../../raw/main/profile/github.css.svg" width="400" height="400" alt="css-in-readme">
+    <img src="../../raw/main/profile/github.css.svg" width="200" height="120" alt="css-in-readme">
 </div>
 
 Bookmarks commonly used by Webera teams.
