@@ -4,7 +4,7 @@
 
 Bookmarks commonly used by Webera teams.
 
-|For all teams|DevOps crEatoReS|Bad Python|
+|For all teams &nbsp; &nbsp; &nbsp; |DevOps crEatoReS|Bad Python|
 |-|-|-|
 |- [Notion](https://www.notion.so/webera)|- [Github Projects](https://github.com/orgs/wearewebera/projects)|- [GCP GKE gm-1](https://console.cloud.google.com/kubernetes/list/overview?project=greenmainframe-1)|
 |- [Meeting Rooms](https://www.notion.so/webera/Meeting-Rooms)|- [Github Repositories](https://github.com/wearewebera)|- [Prometheus](https://prometheus.gm1.apps.services/)|
