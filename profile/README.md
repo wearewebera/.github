@@ -9,6 +9,6 @@ Bookmarks commonly used by Webera teams.
 |- [Time Sheets](https://me.wearewebera.com/)| - [Miro](https://miro.com/app/board/o9J_lYys7w0=/) | - [Grafana](https://grafana.gm1.apps.services/dashboards) |
 
 <div align="center">
-    <img src="github.css.svg" width="400" height="400" alt="css-in-readme">
+    <img src="../../raw/main/profile/github.css.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
