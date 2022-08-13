@@ -4,17 +4,14 @@
             <style>
             h1 {
                 margin: 0;
-                color: red;
+                color: #dd014a;
                 animation: mymove 5s infinite;
             }
 
             @keyframes mymove {
-                from {
-                    color: #dd014a;
-                }
-                to {
-                    color: #0052a5;
-                }
+                0% { color: #dd014a; }
+                50% { color: #0052a5; }
+                100% { color: #dd014a; }
             }
             </style>
             <h1>Welcome to Webera</h1>
