@@ -10,5 +10,5 @@ Discover our services at [Webera.com](https://www.webera.com).
 - [Cloud Migration](https://www.webera.com/cloud_migration/)
 - [Remote Work](https://www.webera.com/remote-work/)
 
-#### Are you from the webera team?
+#### Are you from the Webera Team?
 [Look this page as a member](https://github.com/wearewebera?view_as=member).
