@@ -8,9 +8,9 @@
 
 Discover our services at [webera.com](https://www.webera.com).
 
-- [DevOps as a Service](https://www.webera.com/devops_as_a_service/)
-- [Managed DevOps Services](https://www.webera.com/managed-devops-services/)
-- [DevOps On-Demand](https://www.webera.com/devops-on-demand/)
+- [DevOps as a Service](https://www.webera.com/devops/devops-as-a-service/)
+- [Managed DevOps Services](https://www.webera.com/devops/managed-devops-services/)
+- [DevOps On-Demand](https://www.webera.com/devops/devops-on-demand/)
 - [AI Agency](https://www.webera.com/ai/)
 
 ### Are you from the Webera Team?
