@@ -1,12 +1,18 @@
+# Webera
+
 <div>
     <img src="../../raw/main/profile/github.css.svg" width="300" height="40" alt="">
 </div>
 
-#### We build technology for innovators. Discover our services at [Webera.com](https://www.webera.com).
-- [Managed DevOps Services](https://www.webera.com/managed-devops-services/)
-- [DevOps as a Service](https://www.webera.com/devops_as_a_service/)
-- [Cloud Migration](https://www.webera.com/cloud_migration/)
-- [Remote Work](https://www.webera.com/remote-work/)
+## We build technology for innovators with Deadlines.
 
-#### Are you from the Webera Team?
+Discover our services at [webera.com](https://www.webera.com).
+
+- [DevOps as a Service](https://www.webera.com/devops_as_a_service/)
+- [Managed DevOps Services](https://www.webera.com/managed-devops-services/)
+- [DevOps On-Demand](https://www.webera.com/devops-on-demand/)
+- [AI Agency](https://www.webera.com/ai/)
+
+### Are you from the Webera Team?
+
 [Look this page as a member](https://github.com/wearewebera?view_as=member).
