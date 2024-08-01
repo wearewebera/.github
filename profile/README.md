@@ -1,9 +1,5 @@
 # Webera
 
-<div>
-    <img src="../../raw/main/profile/github.css.svg" width="300" height="40" alt="">
-</div>
-
 ## We build technology for innovators with Deadlines.
 
 Discover our services at [webera.com](https://www.webera.com).
